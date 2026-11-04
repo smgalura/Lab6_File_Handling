@@ -1,0 +1,32 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Student: Dantes (TUPM-26-7955)
+Target year: 2020
+Total records in dataset: 3000
+Incidents in target year: 315
+Invalid financial values skipped: 0
+
+Count per attack type:
+  Phishing: 61
+  Ransomware: 59
+  DDoS: 56
+  SQL Injection: 55
+  Man-in-the-Middle: 47
+  Malware: 37
+
+Total financial loss (USD millions): 15767.95
+Average financial loss (USD millions): 50.06
+
+Five costliest incidents:
+  1. Brazil | Ransomware | 99.90M
+  2. Japan | DDoS | 99.83M
+  3. USA | DDoS | 99.81M
+  4. India | SQL Injection | 99.72M
+  5. USA | Phishing | 99.64M
+
+Output files:
+  output\Dantes_TUPM-26-7955_ex3_filtered.csv
+  output\Dantes_TUPM-26-7955_ex3_top5.json
+  backup\Dantes_TUPM-26-7955_ex3_top5.json
+  output\Dantes_TUPM-26-7955_ex3_report.txt
+Backup verification: VERIFIED

@@ -1,0 +1,43 @@
+{
+    "last_name": "Dantes",
+    "student_id": "TUPM-26-7955",
+    "seed_digit": 5,
+    "id_sum": 34,
+    "records_processed": 1034,
+    "invalid_records": 0,
+    "target_status_class": "3xx",
+    "records_in_target_class": 166,
+    "count_per_status_code_all": {
+        "200": 855,
+        "206": 8,
+        "302": 145,
+        "304": 21,
+        "404": 5
+    },
+    "count_per_status_code_target": {
+        "302": 145,
+        "304": 21
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET / HTTP/1.1",
+            "count": 47
+        },
+        {
+            "url": "POST /process.php HTTP/1.1",
+            "count": 35
+        },
+        {
+            "url": "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+            "count": 34
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "count": 9
+        },
+        {
+            "url": "GET /logout.php HTTP/1.1",
+            "count": 7
+        }
+    ]
+}

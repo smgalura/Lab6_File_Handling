@@ -1,0 +1,72 @@
+[
+    {
+        "rank": 1,
+        "financial_loss_million_usd": 99.9,
+        "Country": "Brazil",
+        "Year": "2020",
+        "Attack Type": "Ransomware",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "99.9",
+        "Number of Affected Users": "429566",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "54"
+    },
+    {
+        "rank": 2,
+        "financial_loss_million_usd": 99.83,
+        "Country": "Japan",
+        "Year": "2020",
+        "Attack Type": "DDoS",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "99.83",
+        "Number of Affected Users": "10859",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "66"
+    },
+    {
+        "rank": 3,
+        "financial_loss_million_usd": 99.81,
+        "Country": "USA",
+        "Year": "2020",
+        "Attack Type": "DDoS",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "99.81",
+        "Number of Affected Users": "948174",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "4"
+    },
+    {
+        "rank": 4,
+        "financial_loss_million_usd": 99.72,
+        "Country": "India",
+        "Year": "2020",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "99.72",
+        "Number of Affected Users": "604113",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "7"
+    },
+    {
+        "rank": 5,
+        "financial_loss_million_usd": 99.64,
+        "Country": "USA",
+        "Year": "2020",
+        "Attack Type": "Phishing",
+        "Target Industry": "Retail",
+        "Financial Loss (in Million $)": "99.64",
+        "Number of Affected Users": "464717",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "VPN",
+        "Incident Resolution Time (in Hours)": "27"
+    }
+]

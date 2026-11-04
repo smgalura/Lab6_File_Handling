@@ -1,0 +1,15 @@
+{
+    "last_name": "Dantes",
+    "student_id": "TUPM-26-7955",
+    "seed_digit": 5,
+    "operating_system": "iOS",
+    "user_behavior_class": 1,
+    "total_records": 700,
+    "records_matching_os": 146,
+    "records_in_target_class": 22,
+    "invalid_records": 0,
+    "average_battery_drain_mah_day": 467.23,
+    "average_data_usage_mb_day": 201.45,
+    "exported_rows": 22,
+    "count_verification": "VERIFIED"
+}
