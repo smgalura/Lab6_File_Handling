@@ -1,0 +1,5 @@
+Student: Dantes
+Student ID: TUPM-26-7955
+Seed digit: 5
+ID sum: 34
+Verification value: 209

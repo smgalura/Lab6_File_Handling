@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+---------------------------------------
+Last Name:Dantes
+Student ID:TUPM-26-7955
+Seed Digit:5
+ID Sum: 34
+Verification Value: 209
+Dataset Sample Size: 84
+Valid Records: 84
+Average Global Active Power: 3.927
+JSON File: Dantes_TUPM-26-7955_record.json
+Backup File: Dantes_TUPM-26-7955_record.csv
